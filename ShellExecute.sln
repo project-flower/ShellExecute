@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShellExecute", "ShellExecute\ShellExecute.vcxproj", "{22281B72-FE93-4965-A3A7-E2641FE42D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DebugAdministrator|x64 = DebugAdministrator|x64
+		DebugAdministrator|x86 = DebugAdministrator|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		ReleaseAdministrator|x64 = ReleaseAdministrator|x64
+		ReleaseAdministrator|x86 = ReleaseAdministrator|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.Debug|x64.ActiveCfg = Debug|x64
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.Debug|x64.Build.0 = Debug|x64
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.Debug|x86.ActiveCfg = Debug|Win32
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.Debug|x86.Build.0 = Debug|Win32
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.DebugAdministrator|x64.ActiveCfg = DebugAdministrator|x64
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.DebugAdministrator|x64.Build.0 = DebugAdministrator|x64
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.DebugAdministrator|x86.ActiveCfg = DebugAdministrator|Win32
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.DebugAdministrator|x86.Build.0 = DebugAdministrator|Win32
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.Release|x64.ActiveCfg = Release|x64
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.Release|x64.Build.0 = Release|x64
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.Release|x86.ActiveCfg = Release|Win32
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.Release|x86.Build.0 = Release|Win32
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.ReleaseAdministrator|x64.ActiveCfg = ReleaseAdministrator|x64
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.ReleaseAdministrator|x64.Build.0 = ReleaseAdministrator|x64
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.ReleaseAdministrator|x86.ActiveCfg = ReleaseAdministrator|Win32
+		{22281B72-FE93-4965-A3A7-E2641FE42D60}.ReleaseAdministrator|x86.Build.0 = ReleaseAdministrator|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3969ABA-B27F-4D33-AB35-0E337E65ACD5}
+	EndGlobalSection
+EndGlobal
